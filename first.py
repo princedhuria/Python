@@ -1,0 +1,2 @@
+print("prince")
+print("dhuria")
